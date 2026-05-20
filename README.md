@@ -1,7 +1,7 @@
 # <div align="center">Computational Physics — Mark Newman</div>
 
 <div align="center">
-  <img src="https://public.websites.umich.edu/~mejn/cp/images/cover.png" width="260">
+  <img src="https://m.media-amazon.com/images/I/41FiVGmqrNS._SY445_SX342_FMwebp_.jpg" width="260">
 </div>
 
 <br>
